@@ -10,7 +10,7 @@ public class programKu {
     public static void TampilJumlah (int bil1, int bil2){
         TampilHinggaKei(Jumlah(bil1, bil2));
     }
-    public static void main(String[] args){
+        public static void main(String[] args){
         int temp = Jumlah(1,1);
         TampilJumlah(temp, 5);
 
